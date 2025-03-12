@@ -16,5 +16,5 @@ A pitchbbok which introduce the idea of forming an index with a Target Vol
 5) Weekly_USD_KOELN.pdf
 Regular weekly investment/product introduction to the Sales Teams
 
-6) MasterFile.ppt
+6) Master File.ppt
 A financial engineering project on Ladder Option
